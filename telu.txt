@@ -1,0 +1,4 @@
+telu
+sg:2.03cm
+tz:230kg
+zd:89
