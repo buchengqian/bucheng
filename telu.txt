@@ -2,3 +2,5 @@ telu
 sg:2.03cm
 tz:230kg
 zd:89
+nl:28
+lh:30
